@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "world": "CLUB69 OpenWorld",
+  "baseUrl": "https://club69megumin.github.io/club69-banners-openworld",
+  "slots": [
+    {
+      "id": "horizontal-1",
+      "label": "Horizontal Banner 1",
+      "aspectRatio": "16:9",
+      "recommendedResolution": "1280x720",
+      "path": "banners/horizontal-1.jpg"
+    },
+    {
+      "id": "horizontal-2",
+      "label": "Horizontal Banner 2",
+      "aspectRatio": "16:9",
+      "recommendedResolution": "1280x720",
+      "path": "banners/horizontal-2.jpg"
+    },
+    {
+      "id": "horizontal-3",
+      "label": "Horizontal Banner 3",
+      "aspectRatio": "16:9",
+      "recommendedResolution": "1280x720",
+      "path": "banners/horizontal-3.jpg"
+    },
+    {
+      "id": "horizontal-4",
+      "label": "Horizontal Banner 4",
+      "aspectRatio": "16:9",
+      "recommendedResolution": "1280x720",
+      "path": "banners/horizontal-4.jpg"
+    },
+    {
+      "id": "vertical-1",
+      "label": "Vertical Banner 1",
+      "aspectRatio": "9:16",
+      "recommendedResolution": "720x1280",
+      "path": "banners/vertical-1.jpg"
+    },
+    {
+      "id": "vertical-2",
+      "label": "Vertical Banner 2",
+      "aspectRatio": "9:16",
+      "recommendedResolution": "720x1280",
+      "path": "banners/vertical-2.jpg"
+    },
+    {
+      "id": "vertical-3",
+      "label": "Vertical Banner 3",
+      "aspectRatio": "9:16",
+      "recommendedResolution": "720x1280",
+      "path": "banners/vertical-3.jpg"
+    },
+    {
+      "id": "vertical-4",
+      "label": "Vertical Banner 4",
+      "aspectRatio": "9:16",
+      "recommendedResolution": "720x1280",
+      "path": "banners/vertical-4.jpg"
+    }
+  ]
+}
